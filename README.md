@@ -115,7 +115,7 @@ Before running VidPredict, ensure you have the following installed:
 
 ## Code
 
-[Insert code here]
+Get Code From The .py file in latest release!
 
 ## License
 
